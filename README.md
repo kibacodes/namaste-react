@@ -54,3 +54,8 @@ Food Ordering App
 
  export const Component;
  import { Component } from "path";
+
+ # React Hooks
+ Normal JS utility Functions
+ - useState() - Super powerful State Variables in React
+ - useEffect()

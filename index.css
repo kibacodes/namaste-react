@@ -51,3 +51,15 @@
     cursor: pointer;
     margin: 15px;
 }
+
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card {
+    margin: 20px;
+    width: 200px;
+    height: 400px;
+    background-color: grey;
+}
